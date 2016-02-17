@@ -1,0 +1,25 @@
+{
+	"file_list": [
+		"managers/LayoutManager.ts",
+		"managers/layoutClass/DepthQueue.ts",
+		"core/UIGlobals.ts",
+		"core/UIComponentProperties.ts",
+		"core/UIComponent.ts",
+		"components/SkinnableComponent.ts",
+		"components/supportClasses/DefaultSkinAdapter.ts",
+		"components/supportClasses/Theme.ts",
+		"components/supportClasses/GroupBase.ts",
+		"components/Group.ts",
+		"events/UIEvent.ts",
+		"events/PropertyChangeEvent.ts",
+		"events/PropertyChangeEventKind.ts",
+		"events/MoveEvent.ts",
+		"events/ResizeEvent.ts",
+		"events/SkinPartEvent.ts",
+		"events/ElementExistenceEvent.ts",
+		"layouts/supportClasses/LayoutBase.ts",
+		"layouts/BasicLayout.ts",
+		"core/UILayer.ts",
+		"core/UIStage.ts"
+	]
+}

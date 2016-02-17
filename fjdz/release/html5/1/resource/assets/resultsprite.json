@@ -1,0 +1,7 @@
+{"file":"resultsprite.png","frames":{
+"scorce":{"x":384,"y":641,"w":189,"h":42,"offX":0,"offY":0,"sourceW":189,"sourceH":42},
+"wait":{"x":384,"y":685,"w":66,"h":66,"offX":0,"offY":0,"sourceW":66,"sourceH":66},
+"again":{"x":384,"y":515,"w":351,"h":124,"offX":0,"offY":0,"sourceW":351,"sourceH":124},
+"avatar_dfj":{"x":575,"y":641,"w":74,"h":74,"offX":0,"offY":0,"sourceW":74,"sourceH":74},
+"listBK2":{"x":1,"y":1,"w":584,"h":512,"offX":0,"offY":0,"sourceW":584,"sourceH":512},
+"logo":{"x":1,"y":515,"w":381,"h":212,"offX":0,"offY":0,"sourceW":381,"sourceH":212}}}

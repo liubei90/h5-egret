@@ -1,0 +1,12 @@
+[
+	"view/GameContent.ts",
+	"view/GameLevelInfo.ts",
+	"view/component/BallManager.ts",
+	"view/component/CenterCircle.ts",
+	"view/component/MatchStick.ts",
+	"AssetAdapter.ts",
+	"LoadingUI.ts",
+	"view/GameScreen.ts",
+	"Main.ts",
+	"view/component/Ball.ts"
+]

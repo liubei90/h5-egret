@@ -1,0 +1,11 @@
+[
+	"view/GameContent.ts",
+	"view/StoneCallBack.ts",
+	"view/component/StoneBmp.ts",
+	"view/StoneManager.ts",
+	"view/MainGamePanel.ts",
+	"AssetAdapter.ts",
+	"LoadingUI.ts",
+	"view/GameScreen.ts",
+	"Main.ts"
+]

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="640" height="1136" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset horizontalCenter="0" height="1291" source="loadBK"/>
+	<e:UIAsset y="120" horizontalCenter="0" source="gamelogo"/>
+	<e:UIAsset id="start_uiasset" y="758" horizontalCenter="0" source="start"/>
+	<e:ProgressBar id="progress_progressbar" skinName="skins.component.ProgressBarSkin" value="20" y="848" horizontalCenter="0" visible="false"/>
+</e:Skin>

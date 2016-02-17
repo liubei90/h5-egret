@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" width="484" height="75">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="avatar_uiasset" verticalCenter="0" width="75" height="75" source="avatar_dfj"/>
+	<e:Label id="nick_label" x="86" top="0" bottom="0" verticalAlign="middle" maxWidth="184" maxDisplayedLines="1" text="-"/>
+	<e:Label id="score_label" top="0" bottom="0" x="361" verticalAlign="middle" maxDisplayedLines="1" maxWidth="120" text="0"/>
+</e:Skin>

@@ -1,0 +1,7 @@
+{"file":"loadsprite.png","frames":{
+"borderprogress":{"x":1,"y":1465,"w":462,"h":58,"offX":0,"offY":0,"sourceW":462,"sourceH":58},
+"gamelogo":{"x":1,"y":1139,"w":588,"h":324,"offX":0,"offY":0,"sourceW":588,"sourceH":324},
+"gprogress":{"x":693,"y":1337,"w":1,"h":48,"offX":0,"offY":25,"sourceW":1,"sourceH":98},
+"loadBK":{"x":1,"y":1,"w":640,"h":1136,"offX":0,"offY":0,"sourceW":640,"sourceH":1136},
+"rprogress":{"x":591,"y":1337,"w":100,"h":98,"offX":0,"offY":0,"sourceW":100,"sourceH":98},
+"start":{"x":591,"y":1139,"w":196,"h":196,"offX":0,"offY":0,"sourceW":196,"sourceH":196}}}

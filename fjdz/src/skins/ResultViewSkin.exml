@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="640" height="1136" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+<e:State name="normal"/>
+<e:State name="disabled"/>
+</e:states>
+	<e:UIAsset horizontalCenter="0" source="bkg_png"/>
+	<e:UIAsset y="38" x="120" source="scorce"/>
+	<e:UIAsset y="102" horizontalCenter="0" source="logo"/>
+	<e:UIAsset y="336" horizontalCenter="0" source="listBK2"/>
+	<e:UIAsset id="restart_uiasset" y="896" horizontalCenter="0" source="again"/>
+	<e:BitmapLabel id="score_bitmaplabel" y="42" font="bfont2-export_fnt" text="0" x="314"/>
+	<e:BitmapLabel id="rank_bitmaplabel" y="150" font="bfont3-rank_fnt" text="0" horizontalCenter="0"/>
+	<e:DataGroup id="ranklist_datagroup" height="492" width="482" x="120" y="344"/>
+	<e:UIAsset id="wait_uiasset" x="338" y="594" source="wait"/>
+</e:Skin>
